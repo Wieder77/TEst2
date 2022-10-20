@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//geht
 public class ShoppingCart {
 	static ArrayList<Article> shoppin_cart = new ArrayList<Article>();
 	public static void main(String[] args) {

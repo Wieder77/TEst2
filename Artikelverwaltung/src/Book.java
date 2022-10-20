@@ -25,6 +25,5 @@ public class Book extends Article {
 		Book b = (Book)o;
 		return super.equals(o) && this.author.equals(b.author) && 
 				this.title.equals(b.title) && this.year == b.year;
-	}
-	
+	}	
 }
